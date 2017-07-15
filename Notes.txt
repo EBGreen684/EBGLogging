@@ -1,0 +1,4 @@
+Test first
+
+Pester file named same as module file and in the same folder.
+
