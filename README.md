@@ -1,0 +1,3 @@
+# EBGLogging
+
+See the wiki
