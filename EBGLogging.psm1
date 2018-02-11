@@ -10,6 +10,7 @@ $Script:defaultLogFile = ''
 $Script:defaultRotateSize = 1
 $Script:defaultRotateDays = 7
 $Script:defaultAutoRotate = $false
+
 function Get-EBGLogger{
     [CmdletBinding()]
     param
